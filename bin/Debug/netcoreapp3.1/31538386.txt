@@ -1,0 +1,7 @@
+Account Number|31538386
+First Name|leann
+Last Name|wang
+Address|23 hassall st
+Phone|0468554475
+Email|leannwang2015@gmail.com
+Balance|0

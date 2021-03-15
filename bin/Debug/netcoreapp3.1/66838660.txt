@@ -1,0 +1,14 @@
+Account Number|66838660
+First Name|liuyu
+Last Name|liuyu
+Address|23 hassall
+Phone|0499577476
+Email|leannwang2015@gmail.com
+Balance|501
+Deposit| $500 at 21 / 9 / 2020
+Deposit| $1000 at 21 / 9 / 2020
+Deposit| $99 at 21 / 9 / 2020
+Deposit| $10000 at 21 / 9 / 2020
+Deposit| $9999 at 21 / 9 / 2020
+Withdraw| $1000 at 21 / 9 / 2020
+Withdraw| $99 at 21 / 9 / 2020
