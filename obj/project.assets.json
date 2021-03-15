@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lewis\\source\\repos\\Assignment1\\Assignment1.csproj",
+      "projectUniqueName": "C:\\Users\\Lewis\\source\\repos\\Simple Bank Management Systems\\Assignment1.csproj",
       "projectName": "Assignment1",
-      "projectPath": "C:\\Users\\Lewis\\source\\repos\\Assignment1\\Assignment1.csproj",
+      "projectPath": "C:\\Users\\Lewis\\source\\repos\\Simple Bank Management Systems\\Assignment1.csproj",
       "packagesPath": "C:\\Users\\Lewis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lewis\\source\\repos\\Assignment1\\obj\\",
+      "outputPath": "C:\\Users\\Lewis\\source\\repos\\Simple Bank Management Systems\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
