@@ -269,7 +269,7 @@ namespace Assignment1
 
             MailMessage mail = new MailMessage();
             SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
-            mail.From = new MailAddress("liuyuftd@gmail.com");
+            mail.From = new MailAddress("<liuyuftd@gmail.com>");
             mail.To.Add(Email);
             mail.Subject = "Create account successful, congratulations!";
             mail.Body = "<h3>Welcome to simple bank. Account detail s is displayed below:</h3>" +
@@ -282,7 +282,7 @@ namespace Assignment1
             mail.IsBodyHtml = true;
 
             SmtpServer.Port = 587;
-            SmtpServer.Credentials = new System.Net.NetworkCredential("liuyuftd@gmail.com", "weiye507");
+            SmtpServer.Credentials = new System.Net.NetworkCredential("<liuyuftd@gmail.com>", "<yourpassword>");
             SmtpServer.EnableSsl = true;
 
             SmtpServer.Send(mail);
@@ -726,7 +726,7 @@ namespace Assignment1
                     mail.IsBodyHtml = true;
 
                     SmtpServer.Port = 587;
-                    SmtpServer.Credentials = new System.Net.NetworkCredential("liuyuftd@gmail.com", "weiye507");
+                    SmtpServer.Credentials = new System.Net.NetworkCredential("liuyuftd@gmail.com", "<yourpassword>");
                     SmtpServer.EnableSsl = true;
 
                     SmtpServer.Send(mail);                    
